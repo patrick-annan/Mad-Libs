@@ -11,29 +11,52 @@ p {
 }
 
 h1 {
-  font-size: 90px;
-  font-family: 'Lucida Handwriting', cursive;
+  font-size: 80px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #2E4057;
   margin: auto;
-  width: 50%;
+  width: 100%;
   padding: 15px;
+  text-align: center;
 }
 
-label {
+h2 {
+  font-size: 40px;
+  font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #2E4057;
+  margin: auto;
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+}
+
+.directions {
+  color:bisque;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+  margin: auto;
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+  
+}
+
+input {
   
   font-size: 30px;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  background-color: #F18f01;
+  background-color: white;
   padding: 3px;
   height: auto;
   width: 50%;
-  border: 3px solid black;
+  border: 2px solid black;
   color: black;
 }
 
 .story {  
   background-color: aqua;
-  color:#2E4057
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:#2E4057;
   margin: 1.5em 10px;
   padding: 3em, 10px, 10px;
 }
